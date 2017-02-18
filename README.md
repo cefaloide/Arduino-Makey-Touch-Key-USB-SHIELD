@@ -1,7 +1,7 @@
 # Arduino Makey Touch Key USB SHIELD
 Library and examples about Arduino Makey Touch Key USB SHIELD, a shield that reminds the Makey Makey product. 
 
-## TIP! **If you have a compile error of library examples, try with an older Arduino IDE version like 1.05**
+### TIP! **If you have a compile error of library examples, try with an older Arduino IDE version like 1.05**
 
 Example Shields:
 
