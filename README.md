@@ -20,6 +20,8 @@ Wiki:
 
 http://wiki.keyestudio.com/index.php/Ks0147_keyestudio_Touch_Key_USB_shield
 
+Wiki with code examples:
+
 http://wiki.keyestudio.com/index.php/Ks0188_keyestudio_Maker_Touch_Starter_Kit
 
 Documentation:
