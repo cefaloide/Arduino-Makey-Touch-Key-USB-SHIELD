@@ -1,9 +1,13 @@
-# Arduino-Makey-Touch-Key-USB-SHIELD
+# Arduino Makey Touch Key USB SHIELD
 Library and examples about Arduino Makey Touch Key USB SHIELD
 
-The shield:
+Example Shields:
 
+Keyestudio Makey Touch Key USB SHIELD Analog Keyboard for Arduino
 http://www.dx.com/p/keyestudio-makey-touch-key-usb-shield-analog-keyboard-for-arduino-433508
+
+Funduino Makey Touch Key USB SHIELD Analog Touch Keyboard for Arduino
+http://www.dx.com/p/funduino-makey-touch-key-usb-shield-analog-touch-keyboard-for-arduino-278871
 
 KS0188 keyestudio Maker Touch Starter Kit video tutorial:
 
